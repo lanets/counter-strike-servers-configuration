@@ -18,7 +18,7 @@
     ./steamcmd.sh
 ````
 
-## Installation/MAJ de csgo
+## Installation/MAJ de csgo (using steamcmd)
 ````
     force_install_dir /home/steam/csgo
     app_update 740 validate # Installation de csgo
