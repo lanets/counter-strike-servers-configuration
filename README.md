@@ -4,8 +4,6 @@
 
 ````bash
     apt-get install lib32gcc1
-    useradd -m steam
-    su - steam
     mkdir ~/steamcmd
     cd ~/steamcmd
     wget http://media.steampowered.com/installer/steamcmd_linux.tar.gz
@@ -20,7 +18,7 @@
 
 ## Installation/MAJ de csgo (using steamcmd)
 ````
-    force_install_dir /home/steam/csgo
+    force_install_dir /home/lanets/csgo
     app_update 740 validate # Installation de csgo
     app_update 740 # Simple MAJ
 ````
