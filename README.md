@@ -18,7 +18,7 @@
 
 ## Installation/MAJ de csgo (using steamcmd)
 ````
-    force_install_dir /home/lanets/csgo
+    force_install_dir /home/lanets/servers/csgo
     app_update 740 validate # Installation de csgo
     app_update 740 # Simple MAJ
 ````
